@@ -6,7 +6,7 @@ class Route{
 	Private String time;
 	Private String price;
 
-	 public routs(String fromCity, String toCity, String distance, String time, String price) {
+	 public Route (String fromCity, String toCity, String distance, String time, String price) {
         this.fromCity = fromCity;
         this.toCity = toCity;
         this.distance = distance;
