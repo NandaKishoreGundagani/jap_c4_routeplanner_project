@@ -1,6 +1,6 @@
 class RouteProg{
 
-int NoOfFlights;
-RouteString=
+int NoOfFlights{}
+Route[]=readfro
 
 }
