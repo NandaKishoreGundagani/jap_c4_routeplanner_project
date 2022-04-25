@@ -1,4 +1,4 @@
-class Routes{
+class Route{
 
 	Private String fromCity;
 	Private String toCity;
