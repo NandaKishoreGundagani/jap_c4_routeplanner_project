@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 public  class RouteMain {
     public static void main(String[] args) {
@@ -30,4 +31,15 @@ public  class RouteMain {
         }
         //  routeProg.displayDetails(routes);
     }
+=======
+class RouteMain{
+	public static void main(String[] args){
+		RouteProg route=new RouteProg();
+		try {
+		   Routr
+		}
+
+	}
+
+>>>>>>> d6a41df478c611e68f825b350f451e058cc119a8
 }

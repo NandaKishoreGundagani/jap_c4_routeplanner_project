@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -114,3 +115,11 @@ public class RouteProg {
 
 
 
+=======
+class RouteProg{
+
+int NoOfFlights{}
+Route[]=readfro
+
+}
+>>>>>>> d6a41df478c611e68f825b350f451e058cc119a8
